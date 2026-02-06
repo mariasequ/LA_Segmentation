@@ -44,6 +44,10 @@ $$Dice = \frac{2 \times |Y_{true} \cap Y_{pred}|}{|Y_{true}| + |Y_{pred}|}$$
     * **Reshaping:** inputs adapted to `(N, 256, 256, 1)` tensors.
 
 *> **Note:** The actual medical images are not included in this repository due to privacy and licensing restrictions.*
+### Training Performance
+The model was trained for [POSA EL NUMERO] epochs. The graphs below show the convergence of the Loss function and the improvement of the Dice Coefficient on both training and validation sets.
+
+![Training History](images/training_history.png)
 
 ## 🛠️ Installation & Usage
 
