@@ -61,5 +61,5 @@ Below is a comparison showing the Input CT, the Radiologist's Mask (Ground Truth
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Left-Atrium-Segmentation.git](https://github.com/YOUR_USERNAME/Left-Atrium-Segmentation.git)
-   cd Left-Atrium-Segmentation
+   git clone [https://github.com/YOUR_USERNAME/LA_Segmentation.git](https://github.com/YOUR_USERNAME/LA_Segmentation.git)
+   cd LA_Segmentation
