@@ -45,18 +45,6 @@ $$Dice = \frac{2 \times |Y_{true} \cap Y_{pred}|}{|Y_{true}| + |Y_{pred}|}$$
 
 *> **Note:** The actual medical images are not included in this repository due to privacy and licensing restrictions.*
 
-## 🚀 Results
-*(You can update this section with your training graphs)*
-
-* **Training Dice Score:** `[POSA EL TEU RESULTAT AQUÍ, EX: 0.92]`
-* **Validation Dice Score:** `[POSA EL TEU RESULTAT AQUÍ, EX: 0.88]`
-
-### Visual Sample
-Below is a comparison showing the Input CT, the Radiologist's Mask (Ground Truth), and the U-Net's Prediction:
-
-![Segmentation Result](images/results_sample.png)
-*(Make sure to add a screenshot of your plot named 'results_sample.png' inside an 'images' folder)*
-
 ## 🛠️ Installation & Usage
 
 1. **Clone the repository:**
