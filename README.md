@@ -1,4 +1,4 @@
-# Automatic Left Atrium Segmentation using U-Net 🫀
+# Automatic Occluded Left Atrium Segmentation using U-Net 🫀
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.X-orange)
